@@ -1,4 +1,4 @@
-# python-os
+# Python OS
 
 ### Working on the Tkinter Module to provide a UI
 
